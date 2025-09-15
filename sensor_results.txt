@@ -1,0 +1,6 @@
+Sensor Data Analysis Results
+Temperature -> Avg: 24.99, Min: 6.156082067, Max: 44.23356139
+Distance -> Avg: 124.47, Min: 50.00853254, Max: 199.9940823
+Battery -> Avg: 55.31, Min: 10.03341466, Max: 99.99695748
+Time of highest temperature: nan
+Battery < 30% count: 2215

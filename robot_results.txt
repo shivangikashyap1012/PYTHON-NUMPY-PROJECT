@@ -1,0 +1,4 @@
+Robot Path Analysis Results
+Total distance traveled: 26549.34
+Farthest point from origin: [ -38. -334.]
+Revisited a position: True
